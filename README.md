@@ -1,3 +1,4 @@
 # PathFindingAlgorithm
-I created a code to find the path to a chosen finish line coordinate! 
+I created a code to find the path to a chosen finish line coordinate!
+
 ![Maze Image](maze shape.png)
